@@ -1,0 +1,8 @@
+1, Printer, Broken, 19, Available, 0
+2, Headset, Good, 13, Borrowed, 0
+3, Mouse, Good, 13, Available, 0
+4, Projector, Good, 19, Available, 0
+5, Scanner, Good, 16, Available, 0
+6, Laptop, Good, 20, Available, 0
+7, Computer, Good, 31, Available, 0
+8, Keyboard, Good, 13, Available, 0

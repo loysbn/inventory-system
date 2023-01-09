@@ -1,0 +1,3 @@
+1, adminf, adminl, admin@gmail.com, admin, Admin, 0
+2, stafff, staffl, staff@gmail.com, staff, Staff, 0
+3, Userf, Userl, user@gmail.com, user, OU, 0
