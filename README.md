@@ -2,16 +2,16 @@
 An inventory system of laboratory equipments using File Handling in C as the storage.
 
 •	with 3 types of users. 
-  o	(admin) (manages the account and the equipment) (Add, Remove, Edit of the Users and Equipment)
-  o	Staff (approves borrowing and return of items as per request of the User)
-  o	Ordinary User (Borrows and return the item ---> applies through the system)
+ - (admin) (manages the account and the equipment) (Add, Remove, Edit of the Users and Equipment)
+ - Staff (approves borrowing and return of items as per request of the User)
+ - Ordinary User (Borrows and return the item ---> applies through the system)
 
 ### Process
   Administrator
-  •	There already exist a pre-defined administrator 
-  •	Administrator can login and change password
-  •	Administrator will manage all accounts
-  •	Administrator will manage the equipment
+  1. There already exist a pre-defined administrator 
+  2. Administrator can login and change password
+  3. Administrator will manage all accounts
+  4. Administrator will manage the equipment
   
   Ordinary Users(OU):
   1.	User will register as Ordinary User
